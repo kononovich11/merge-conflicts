@@ -1,10 +1,10 @@
 # Jobs
-  company: IBA
+- company: IBA
   position: Intern ABAP
   duration: September, 2019 &mdash; December, 2019
   summary: Learning and completing assignments in the ABAP programming language.
   
-  company: Jet bi
+- company: Jet bi
   position: Intern Sap
   duration: May, 2019 &mdash; June, 2019
   summary: Creating the web application in the SAP WebIDE development environment.
