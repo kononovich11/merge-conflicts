@@ -10,9 +10,11 @@
 # DataStorage
 - project: DataStorage
   url: "https://kononovich11.github.io/DataStorage/"
+  duration: 2020
   description: Site layout about DataStorage.
   
   # weatherApp
 - project: weather application.
   url: "https://kononovich11.github.io/weatherApp/"
+  duration: 2020
   description: You can to choose city and will see wether on next five days.
